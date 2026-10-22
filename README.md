@@ -1,6 +1,6 @@
 🖼️ Image Editor Project 🖨️
 
-    Un projet web simple pour éditer et sauvegarder des images, en utilisant les technologies web de base.
+Un projet web simple pour éditer et sauvegarder des images, en utilisant les technologies web de base.
 
 =>  Technologies utilisées?
 
