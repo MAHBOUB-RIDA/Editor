@@ -2,13 +2,13 @@
 
 Un projet web simple pour éditer et sauvegarder des images, en utilisant les technologies web de base.
 
-=>  Technologies utilisées?
+=> Technologies utilisées?
 
       HTML5: Structure de la page et interface utilisateur.
       CSS3 : Design, mise en page et style visuel.
       JavaScript: Logique de manipulation des images et interactivité.
 
-=>  Fonctionnalités?
+=> Fonctionnalités?
 
       +Charger une image depuis l'ordinateur.
       +Appliquer des modifications de base sur l'image.
